@@ -1,0 +1,25 @@
+#container{
+    padding: 250px 750px;
+    text-align: center;
+}
+
+#search_entry{
+    align-items:baseline;
+    border-radius: 25px;
+    width: 250px;
+    height: 25px;
+    margin: 25px;
+}
+
+#search_submit{
+    border-radius: 25px;
+    height: 30px;
+    width: 125px;
+}
+
+#links{
+    display: grid;
+    place-items: center;
+    position: absolute;
+    position: 0px;
+}
